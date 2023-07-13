@@ -1,0 +1,77 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.header
+{
+    margin: 10px;
+    text-decoration: underline;
+}
+
+.paragraph
+{
+    margin: 10px;
+}
+
+.freecodecamp
+{
+    margin: 10px;
+}
+
+.english 
+{
+    margin: 10px;
+}
+
+.Artificial_Intelligent
+{
+    margin: 10px;
+}
+
+.other
+{
+    margin: 10px;
+}
+
+body
+{
+    background-image: url(box.jpg);
+    background-size: cover;
+    color: #eff6ec;
+    background-position: 100%;
+    font-weight: bold;
+}
+
+.french
+{
+    margin: 10px;
+}
+
+.other h2
+{
+    text-decoration: underline;
+}
+
+.french h2
+{
+    text-decoration: underline;
+}
+
+.english h2
+{
+    text-decoration: underline;
+}
+
+.freecodecamp h2
+{
+    text-decoration: underline;
+}
+
+.Artificial_Intelligent h2
+{
+    text-decoration: underline;
+}
+
